@@ -1,0 +1,3 @@
+[submodule "embarc_osp"]
+	path = embarc_osp
+	url = git@github.com:ParkerMactavish/embarc_osp.git
